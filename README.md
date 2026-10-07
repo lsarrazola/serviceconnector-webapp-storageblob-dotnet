@@ -1,4 +1,4 @@
-// Hola, aquí estuvo Luna
+Hola, aquí estuvo Luna
 ---
 page_type: sample
 languages:
