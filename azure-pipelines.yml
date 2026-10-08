@@ -8,7 +8,7 @@ variables:
   buildConfiguration: 'Release'
   dotnetVersion: '9.x'
 
-  # Completar posteriormente
+  # Completar posteriormente.
   azureSubscription: 'MIA_Connection'
   appName: 'storage-container-connector'
 
